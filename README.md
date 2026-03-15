@@ -1,3 +1,7 @@
+  <p align="center">
+  <img src="https://files.catbox.moe/3b41q4.gif" width="300px"/>
+  </p>
+
 <h3 align="center">$${\color{mediumblue}the  big  ones}$$</h3>
 <h4 align="center">$${\color{grey} aka..my..main..interests }$$</h4>
 <p align="center">$${\color{royalblue} hlvrai }$$<br>
@@ -5,8 +9,10 @@
   $${\color{royalblue}half life }$$<br>
   $${\color{royalblue}portal }$$<br>
   $${\color{royalblue} scp }$$<br>
-  $${\color{royalblue}postal }$$ <br>
-  <img src="https://tenor.com/bWLP4.gif" width="500px"/> </p> <br>
+  $${\color{royalblue}postal }$$ <br> </p>
+  <p align="center">
+  <img src="https://files.catbox.moe/kixhkz.jpg" width="500px"/>
+  </p>
   <h3 align="center">$${\color{darkorange}the  other  ones}$$</h3>
   <p align="center">$${\color{chocolate} mlp }$$<br>
   $${\color{chocolate}freemind }$$<br>
